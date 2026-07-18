@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**hvghvi/hvghvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-year BSc Computer Science student at the University of Auckland, focused on full-stack development with a growing interest in cybersecurity.
 
-Here are some ideas to get you started:
+- Coursework spans software engineering, databases, discrete maths, network security, and cryptography.
+- Self-taught web dev in training. Mastering the frontend (JS, DOM, CSS).
+- Looking for summer internship opportunities in software development / cybersecurity, especially in the NZ energy sector.
+  
+[LinkedIn Profile](https://www.linkedin.com/in/hughvirganio/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech I've been working with:  
+JavaScript, SQLite, Python, SQL, HTML/CSS, Java
+
+Projects:  
+Rock Paper Scissors — game logic and score tracking with DOM manipulation
+Etch-A-Sketch — dynamic resizable grid with keyboard shortcuts, built while learning CSS layout and event handling
