@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-Second-year BSc Computer Science student at the University of Auckland, focused on full-stack development with a growing interest in cybersecurity.
+Second-year BSc Computer Science student at the University of Auckland, interested in full-stack development and cybersecurity, looking to apply what I'm learning to real-world problems.
 
 - Coursework spans software engineering, databases, discrete maths, network security, and cryptography.
-- Self-taught web dev in training. Mastering the frontend (JS, DOM, CSS).
-- Looking for summer internship opportunities in software development / cybersecurity, especially in the NZ energy sector.
+- Self-taught in web development, focusing on the frontend (JS, DOM, CSS).
+- Currently learning React.js and Node.js.
+- Looking for summer internship opportunities in software development / cybersecurity.
   
 [LinkedIn Profile](https://www.linkedin.com/in/hughvirganio/)
 
