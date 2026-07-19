@@ -11,7 +11,3 @@ Second-year BSc Computer Science student at the University of Auckland, interest
 
 Tech I've been working with:  
 JavaScript, SQLite, Python, SQL, HTML/CSS, Java
-
-Projects:  
-Rock Paper Scissors — game logic and score tracking with DOM manipulation
-Etch-A-Sketch — dynamic resizable grid with keyboard shortcuts, built while learning CSS layout and event handling
