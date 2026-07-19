@@ -1,4 +1,4 @@
-## PLEASE READ
+## Helloooo
 
 Second-year BSc Computer Science student at the University of Auckland, interested in full-stack development and cybersecurity, looking to apply what I'm learning to real-world problems.
 
