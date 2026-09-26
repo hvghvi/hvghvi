@@ -3,7 +3,7 @@
 Second-year BSc Computer Science student at the University of Auckland, interested in full-stack development and cybersecurity, looking to apply what I'm learning to real-world problems.
 
 - Coursework spans software engineering, databases, discrete maths, network security, and cryptography.
-- Self-taught in web development, focusing on the frontend (JS, DOM, CSS).
+- Self-taught in web development (JS, DOM, CSS).
 - Currently learning: Computer Systems
 
   
