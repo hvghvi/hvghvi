@@ -5,7 +5,7 @@ Second-year BSc Computer Science student at the University of Auckland, interest
 - Coursework spans software engineering, databases, discrete maths, network security, and cryptography.
 - Self-taught in web development, focusing on the frontend (JS, DOM, CSS).
 - Currently learning: Computer Systems
-- Looking for summer internship opportunities in software development / cybersecurity.
+
   
 [LinkedIn Profile](https://www.linkedin.com/in/hughvirganio/)
 
